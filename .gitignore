@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Python (since you have the chart scripts)
+__pycache__/
+*.pyc
